@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the RSE network for the MusicNet task, which is based on https://github.com/Aroksak/RSE.
 
-but is more similar to the original Tensorflow code: https://github.com/LUMII-Syslab/RSE
+but is much more similar to the original Tensorflow implementation: https://github.com/LUMII-Syslab/RSE
 
 # Current Status
 
