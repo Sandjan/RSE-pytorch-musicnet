@@ -6,4 +6,5 @@ but is much more similar to the original Tensorflow implementation: https://gith
 
 # Current Status
 
+Needs at least 18GB VRAM (window_size=8192), for less memory consumption I would recommend setting bfloat16 as the data type (autocast)  
 Current MusicNet result on window_size=2048: ~60% APS.s
